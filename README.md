@@ -21,3 +21,18 @@
 ![linux2](task_linux_cli/Linux%202.jpg)
 ![linux3](task_linux_cli/Linux%203.jpg)
 ![linux4](task_linux_cli/Linux%204.jpg)
+
+
+## Git Collaboration
+
+Ну, ось і добігли кінця теми з гітом. Цей модуль був вийнятково зосереджений на командній роботі з гітом. Нажаль, у роботі ці знання я ще не встиг застосувати, але як тільки у команді буде більше ніж одна людина - вони стануть у нагоді. Пройшов все рівні на learnGit трошки раніше, після першого модуля, бо незовсім правильно прочитав завдання. Додаю скріни прослуханих лекцій і пройдених рівнів. 
+
+![git_collab1](/task_git_collaboration/Coursera%20w3_1.jpg)
+![git_collab2](/task_git_collaboration/Coursera%20w3_2.jpg)
+![git_collab3](/task_git_collaboration/Coursera%20w3_3.jpg)
+![git_collab4](/task_git_collaboration/Coursera%20w3_4.jpg)
+![git_collab5](/task_git_collaboration/Coursera%20w4_1.jpg)
+![git_collab6](/task_git_collaboration/Coursera%20w4_2.jpg)
+![git_collab7](/task_git_collaboration/Coursera%20w4_3.jpg)
+![git_collab8](/task_git_collaboration/learn_git1.jpg)
+![git_collab9](/task_git_collaboration/learn_git2.jpg)
