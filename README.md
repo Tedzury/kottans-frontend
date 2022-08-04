@@ -36,3 +36,15 @@
 ![git_collab7](/task_git_collaboration/Coursera%20w4_3.jpg)
 ![git_collab8](/task_git_collaboration/learn_git1.jpg)
 ![git_collab9](/task_git_collaboration/learn_git2.jpg)
+
+
+## Intro to HTML and CSS
+
+Гарний модуль для новачків. Жалкую, що не потрапив на цей ресурс у самому початку свого вивчення фронтенду, для мене це було б дуже корисно, сам все клацаєш, прописуєш всі стилі, верстаєш під диктовку - для початку саме те що треба. Зараз же було не так цікаво, але повторити все це варто, бо не кожен день використовуєш деякі елементи, або стилі. Напевно, єдине що мене здивувало - це !important у css стилях, який перебиває пріорітет всіх інших селекторів, раніше не чув про цю опцію на тих ресурсах, де вивчав css. 
+
+Загалом же, модуль хороший, як казали у мене в школі: 'повторение - мать учения', ось і повторив основи. Додаю скріни з пройденим матеріалом:
+
+![intro_html_css](/task_html_css_intro/coursera_html_1.jpg)
+![intro_html_css](/task_html_css_intro/coursera_html_2.jpg)
+![intro_html_css](/task_html_css_intro/coursera_html_3.jpg)
+![intro_html_css](/task_html_css_intro/intro_to_css.jpg)
